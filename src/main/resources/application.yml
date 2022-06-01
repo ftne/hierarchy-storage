@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: additional-products
+mongock:
+  change-logs-scan-package: com.ftne.hstorage.changelog
